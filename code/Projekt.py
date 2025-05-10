@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+ 
 # Parametry silnika i przekładni
 R = 1.0
 L = 0.5
